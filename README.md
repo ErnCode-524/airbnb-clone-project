@@ -8,6 +8,14 @@ Payment Processing: Integrate a payment system to handle transactions and record
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
+TEAM ROLES
+
+Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+Database Administrator: Manages database design, indexing, and optimizatizations.
+DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+UI/UX Designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experiences and highest conversion rates.
+
 TECHNOLOGY STACKS
 
 Django: A high-level Python web framework used for building the RESTful API.
@@ -18,11 +26,3 @@ Celery: For handling asynchronous tasks such as sending notifications or process
 Redis: Used for caching and session management.
 Docker: Containerization tool for consistent development and deployment environments.
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
-
-TEAM ROLES
-
-Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
-Database Administrator: Manages database design, indexing, and optimizatizations.
-DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
-QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
-UI/UX Designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experiences and highest conversion rates.
