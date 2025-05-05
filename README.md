@@ -16,7 +16,7 @@ DevOps Engineer: Handles deployment, monitoring, and scaling of the backend serv
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 UI/UX Designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experiences and highest conversion rates.
 
-# Technology Stack Overview
+Technology Stack
 
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
