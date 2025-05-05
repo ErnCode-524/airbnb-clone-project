@@ -8,7 +8,7 @@ Payment Processing: Integrate a payment system to handle transactions and record
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
-TEAM ROLES
+# Team Roles and Responsibilities
 
 Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
 Database Administrator: Manages database design, indexing, and optimizatizations.
@@ -16,7 +16,7 @@ DevOps Engineer: Handles deployment, monitoring, and scaling of the backend serv
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 UI/UX Designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experiences and highest conversion rates.
 
-TECHNOLOGY STACKS
+# Technology Stack Overview
 
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
@@ -27,7 +27,9 @@ Redis: Used for caching and session management.
 Docker: Containerization tool for consistent development and deployment environments.
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
-FEATURES BREAKDOWN
+# Database Design Overview
+
+# Feature Breakdown
 
  User Authentication: Register new users, authenticate, and manage user profiles.
  Property Management: Create, update, retrieve, and delete property listings.
@@ -36,7 +38,7 @@ FEATURES BREAKDOWN
  Payment Processing: Handle payment transactions related to bookings.
  Review System: Post and manage reviews for properties.
 
- API SECURITY
+ API Security Overview
  Implement and document key security measures to safeguard application data and 
  ensure secure transactions.
 
