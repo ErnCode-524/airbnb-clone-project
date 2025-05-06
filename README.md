@@ -1,5 +1,5 @@
 # airbnb-clone-project
-PROJECT GOALS
+# PROJECT GOALS
 
 User Management: Implement a secure system for user registration, authentication, and profile management.
 Property Management: Develop features for property listing creation, updates, and retrieval.
@@ -16,7 +16,7 @@ DevOps Engineer: Handles deployment, monitoring, and scaling of the backend serv
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 UI/UX Designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experiences and highest conversion rates.
 
-#Technology Stack
+# Technology Stack
 
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
@@ -38,7 +38,7 @@ CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
  Payment Processing: Handle payment transactions related to bookings.
  Review System: Post and manage reviews for properties.
 
-#API Security Overview
+# API Security Overview
  Implement and document key security measures to safeguard application data and 
  ensure secure transactions.
 
@@ -71,7 +71,7 @@ Secure APIs
 CORS Restrictions: Only trusted domains can access APIs.
 API Key Authentication: Required for third-party integrations.
 
-#CI/CD PIPELINE
+# CI/CD PIPELINE
 
 CI (Continuous Integration): Automatically builds and tests code changes when pushed to a shared repository (e.g., GitHub). Ensures new code doesn’t break the app.
 CD (Continuous Delivery/Deployment): Automatically deploys tested code to staging/production environments after CI passes.
